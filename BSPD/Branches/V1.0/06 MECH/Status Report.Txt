@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:22:08 On 7.11.2020.
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [BSPD.PcbDoc]
+   Generated File[BSPD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:22:12 On 7.11.2020.
