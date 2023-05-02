@@ -1,0 +1,1 @@
+Ovaj file je testna promjena prilikom razvoja skripte za automatsko pushanje na 2 repa cime se minimizira greška prilikom objavljivanja promjena
