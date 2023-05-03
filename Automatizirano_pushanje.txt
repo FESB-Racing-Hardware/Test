@@ -2,3 +2,4 @@ Ovaj file je testna promjena prilikom razvoja skripte za automatsko pushanje na 
 ako se ova recenica vidi to znaci da skripta radi
 ako proradi seksi
 
+ajde ako sad opet radi top jer ono malo optimizacije
